@@ -1,0 +1,6 @@
+This folder is reserved for Deepanshi's anime portrait.
+
+When the final image is ready:
+1. Save it here using a simple filename such as deepanshi-anime.png.
+2. Do not include a real photograph unless Deepanshi later chooses to do so.
+3. Update the homepage design and image accessibility text before publishing it.

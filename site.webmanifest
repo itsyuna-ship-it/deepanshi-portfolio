@@ -1,0 +1,17 @@
+{
+  "name": "Deepanshi Guha — Academic + Creative Portfolio",
+  "short_name": "Deepanshi Guha",
+  "description": "Ideas, inquiry, leadership and creative work by Deepanshi Guha.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#2f55ff",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
